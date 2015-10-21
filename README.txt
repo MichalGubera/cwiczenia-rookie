@@ -1,2 +1,3 @@
-README - wersja 3: Master
-Dodane na ga³êzi 'master'.
+ï»¿README - wersja 3: Master
+
+Dodane na gaÂ³Ãªzi cwiczenie6.
